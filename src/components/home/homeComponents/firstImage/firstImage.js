@@ -17,6 +17,7 @@ Explore cool-toned pieces designed for running, <br />
 training and everyday.</p>
 </div>
 </div>
+
    <img src={blueimg} className='home-images  img-responsive' alt='blue-img'/>
 
 

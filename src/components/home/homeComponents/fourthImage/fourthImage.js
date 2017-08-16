@@ -14,6 +14,16 @@ class FourthImage extends Component {
    <div className='green-caption-div'>
    <p className='green-caption'>Get everything you need for your best season ever.</p>
 </div>
+<div className='red-img-button'>
+<div className="dropdown">
+  <button className="dropbtn">Shop Now</button>
+  <div className="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+</div>
 </div>
    <img src={gearsupport} className='home-images  img-responsive' alt='blue-img'></img>
 
