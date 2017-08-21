@@ -22,23 +22,27 @@ class Shoes extends Component {
 </div>
 
 <div className='col-md-3 '>
-<img src={airforce1}  className='shoe-image img-responsive'></img>
+<img src={airforce1}  className='shoe-image img-responsive' alt=
+  'shoes'></img>
   <figcaption className='shoe-names'>NIKE AIRFORCE 1</figcaption>
     <figcaption className='shoe-shop'>Shop Now</figcaption>
 </div>
 
 <div className=' col-md-3 '>
-  <img src={vapormax} className='shoe-image img-responsive' ></img>
+  <img src={vapormax} className='shoe-image img-responsive' alt=
+    'shoes' ></img>
     <figcaption className='shoe-names'>NIKE AIR VAPORMAX</figcaption>
       <figcaption className='shoe-shop'>Shop Now</figcaption>
 </div>
 <div className=' col-md-3 '>
-  <img src={presto} className='shoe-image img-responsive'></img>
+  <img src={presto} className='shoe-image img-responsive' alt=
+    'shoes'></img>
   <figcaption className='shoe-names'>NIKE AIR PRESTO</figcaption>
     <figcaption className='shoe-shop'>Shop Now</figcaption>
 </div>
 <div className='col-md-3'>
-  <img src={metcon} className='shoe-image img-responsive'></img>
+  <img src={metcon} className='shoe-image img-responsive' alt=
+    'shoes'></img>
   <figcaption className='shoe-names'>NIKE METCON</figcaption>
   <figcaption className='shoe-shop'>Shop Now</figcaption>
 </div>

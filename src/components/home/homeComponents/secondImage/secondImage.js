@@ -18,9 +18,9 @@ on the court, the field, and the classroom.</p>
 <div className="dropdown">
   <button className="dropbtn">Shop Now</button>
   <div className="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <a >Link 1</a>
+    <a >Link 2</a>
+    <a >Link 3</a>
   </div>
 </div>
 </div>

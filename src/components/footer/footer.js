@@ -49,10 +49,10 @@ class Footer extends Component {
           </div>
           <div>
             <ul className='networks-ul'>
-              <li className='footer-socials'><img src={twitter} className='img-responsive social-network'></img></li>
-              <li className='footer-socials'><img src={facebook} className='img-responsive social-network'></img></li>
-              <li className='footer-socials'><img src={youtube} className='img-responsive social-network'></img></li>
-              <li className='footer-socials'><img src={instagram} className='img-responsive social-network'></img></li>
+              <li className='footer-socials'><img src={twitter} className='img-responsive social-network' alt='social-logos'></img></li>
+              <li className='footer-socials'><img src={facebook} className='img-responsive social-network' alt='social-logos'></img></li>
+              <li className='footer-socials'><img src={youtube} className='img-responsive social-network' alt='social-logos'></img></li>
+              <li className='footer-socials'><img src={instagram} className='img-responsive social-network'  alt='social-logos'></img></li>
             </ul>
           </div>
         </div>
