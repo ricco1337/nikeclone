@@ -6,6 +6,8 @@ import SecondImage from './homeComponents/secondImage/secondImage.js';
 import ThirdImage from './homeComponents/thirdImage/thirdImage.js';
 import FourthImage from './homeComponents/fourthImage/fourthImage.js';
 import Shoes from './homeComponents/shoes/shoes.js';
+import Footer from './components/../../footer/footer.js';
+
 
 class Home extends Component {
   render() {
@@ -17,8 +19,7 @@ class Home extends Component {
         <FourthImage />
          <Shoes />
 
-
-
+<Footer />
   </div>
     )
   }

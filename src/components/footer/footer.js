@@ -13,7 +13,7 @@ class Footer extends Component {
         <div className='nike-email-signup'>
 
           <img src={NikeEmail} alt='nikeEmail' className='img-responsive nike-email'></img>
-          <div className='container'>
+          <div className='email-container'>
             <h1 className='nike-email-header'>SIGN UP FOR NIKE EMAIL</h1>
             <p className='nike-email-caption'>Be the first to know about the latest products, exclusives and offers from Nike</p>
             <p className='nike-email-signup'>SIGN UP</p>
