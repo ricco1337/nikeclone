@@ -4,8 +4,6 @@ import './home.css';
 import FirstImage from './homeComponents/firstImage/firstImage.js';
 import SecondImage from './homeComponents/secondImage/secondImage.js';
 import ThirdImage from './homeComponents/thirdImage/thirdImage.js';
-import FourthImage from './homeComponents/fourthImage/fourthImage.js';
-import Shoes from './homeComponents/shoes/shoes.js';
 import Footer from './components/../../footer/footer.js';
 
 
@@ -16,8 +14,6 @@ class Home extends Component {
   <FirstImage />
     <SecondImage />
       <ThirdImage />
-        <FourthImage />
-         <Shoes />
 
 <Footer />
   </div>
