@@ -10,14 +10,22 @@ class MenTopShoe extends Component {
     return (
       <div>
         <div className='men-container'>
-          <h2>NIKE MEN</h2>
-        <ul>
-          <li>Shoes</li>
-            <li>Clothing</li>
-              <li>Just Released</li>
-                <li>Gear Up</li>
-                  <li>Back To School</li>
+
+          <h2 className='nike-men-header'>NIKE MEN</h2>
+          <div className='shoe-container'>
+        <ul className='nike-men-top-captions-ul'>
+          <li className='nike-men-top-captions'>Shoes</li>
+          <hr />
+            <li className='nike-men-top-captions'>Clothing</li>
+            <hr />
+              <li className='nike-men-top-captions'>Just Released</li>
+              <hr />
+                <li className='nike-men-top-captions'>Gear Up</li>
+                <hr />
+                  <li className='nike-men-top-captions'>Back To School</li>
+
         </ul>
+        </div>
 <img src={liftBro} alt='liftBro' className='liftBro img-responsive'></img>
 <figcaption className='shop-now-top-shoe-men'>SHOP NOW</figcaption>
 

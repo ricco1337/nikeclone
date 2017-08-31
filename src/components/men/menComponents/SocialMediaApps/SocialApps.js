@@ -14,6 +14,7 @@ class SocialMediaApps extends Component {
           <h2 className='men-picture-headers'>DOWNLOAD OUR APPS</h2>
           </div>
 <img src={NikeApps} alt='nike-apps' className='img-responsive'></img>
+<div className='social-container'>
 <ul className='nike-apps-ul'>
   <li className='nike-plus'>NIKE+</li>
     <li className='nike-run'>NIKE+ RUN CLUB</li>
@@ -21,7 +22,7 @@ class SocialMediaApps extends Component {
         <li className='nike-snkrs'>NIKE+ SNKRS</li>
 
 </ul>
-
+</div>
   <h1 className='follow-nike'>FOLLOW NIKE</h1>
 <img src={NikeSocials} alt='nike-socials' className='img-responsive'></img>
 

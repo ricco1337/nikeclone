@@ -14,7 +14,17 @@ class WomenShopBy extends Component {
           </div>
 
 <img src={ShopBy} alt='women-shopby' className='img-responsive'></img>
+  <div className='men-latest-shoes-container'>
+    <div className='row'></div>
+    <div className='col-md-4 men-essentials-caption'>SHORTS
+    </div>
+      <div className='col-md-4 men-essentials-caption'>TOPS <br /> &TEES
+      </div>
+        <div className='col-md-4 men-essentials-caption'>BOARD <br /> SHORTS
+        </div>
 
+
+  </div>
 
           </div>
 

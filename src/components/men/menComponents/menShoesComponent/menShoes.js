@@ -11,7 +11,15 @@ class MenShoes extends Component {
           <div className='men-picture-header-container'>
           <h2 className='men-picture-headers'>OUR LATEST SHOES</h2>
           </div>
-
+          <div className='latest-shoes-container'>
+          <div className='row'></div>
+          <div className='col-md-4 men-latest-shoes-caption'>RUNNING
+          </div>
+            <div className='col-md-4 men-latest-shoes-caption'>SPORTSWEAR
+            </div>
+              <div className='col-md-4 men-latest-shoes-caption'>BASKETBALL
+              </div>
+              </div>
 
 <img src={latestShoes} alt='latest-shoes' className='img-responsive'></img>
 
